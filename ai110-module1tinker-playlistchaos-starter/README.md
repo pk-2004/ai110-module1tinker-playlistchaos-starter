@@ -1,3 +1,6 @@
+## TF Task
+From this experience, it is apparent that students need to learn the skill of prompt engineering, meaning tuning prompts in a way that allows the AI to cater an expected response. Students might struggle with finding an issue with the app. It took a bit of exploring for me to find atleast one apparent issue. AI was helpful in correcting the issue with updated code. However, the prompts had to be a bit more specific for it to understand what I am expecting. One way I would guide the students is by suggesting them to be specific with their prompts. 
+
 # Playlist Chaos
 
 Your AI assistant tried to build a smart playlist generator. The app runs, but some of the behavior is unpredictable. Your task is to explore the app, investigate the code, and use an AI assistant to debug and improve it.
@@ -112,5 +115,5 @@ If you finish early or want an extra challenge, try one of these:
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
 
-## TF Task
-From this experience, it is apparent that students need to learn the skill of prompt engineering, meaning tuning prompts in a way that allows the AI to cater an expected response. Students might struggle with finding an issue with the app. It took a bit of exploring for me to find atleast one apparent issue. AI was helpful in correcting the issue with updated code. However, the prompts had to be a bit more specific for it to understand what I am expecting. One way I would guide the students is by suggesting them to be specific with their prompts. 
+
+
